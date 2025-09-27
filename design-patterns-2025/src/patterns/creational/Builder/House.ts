@@ -1,0 +1,1 @@
+export class House { constructor(public walls: string, public roof: string, public rooms: number) {} }

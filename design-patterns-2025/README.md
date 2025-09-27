@@ -1,0 +1,1 @@
+# Design Patterns 2025\nThis project demonstrates 6 design patterns in TypeScript.

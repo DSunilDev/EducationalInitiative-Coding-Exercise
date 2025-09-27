@@ -1,0 +1,1 @@
+export interface ICompressionStrategy { compress(files: string[]): void; }
